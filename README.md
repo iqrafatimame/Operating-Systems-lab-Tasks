@@ -8,6 +8,6 @@
 - ## Priority Scheduling Algorithm
   In Priority scheduling algorithm, each process is assigned a priority. Process with highest priority is to be executed first and so on. Processes with same priority are executed on first come first served basis.
 - ## Round Robin Algorithm 
-In round robin algorithm, time slicesare assigned to each process in equal portions and in circular order, handling all processes without priority.
+  In round robin algorithm, time slicesare assigned to each process in equal portions and in circular order, handling all processes without priority.
 - ## Shortest Job First Algorithm
-Shortest Job First is an algorithm in which the process having the smallest execution time is chosen for the next execution.
+  Shortest Job First is an algorithm in which the process having the smallest execution time is chosen for the next execution.
